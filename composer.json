@@ -74,10 +74,7 @@
         "laravel": {
             "providers": [
                 "C6Digital\\Plausible\\PlausibleServiceProvider"
-            ],
-            "aliases": {
-                "Plausible": "C6Digital\\Plausible\\Facades\\Plausible"
-            }
+            ]
         }
     },
     "minimum-stability": "dev",

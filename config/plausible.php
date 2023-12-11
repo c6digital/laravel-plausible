@@ -1,6 +1,7 @@
 <?php
 
-// config for C6Digital/Plausible
 return [
+
+    'domain' => env('PLAUSIBLE_DOMAIN'),
 
 ];
