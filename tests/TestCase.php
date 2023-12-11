@@ -2,9 +2,9 @@
 
 namespace C6Digital\Plausible\Tests;
 
+use C6Digital\Plausible\PlausibleServiceProvider;
 use Illuminate\Database\Eloquent\Factories\Factory;
 use Orchestra\Testbench\TestCase as Orchestra;
-use C6Digital\Plausible\PlausibleServiceProvider;
 
 class TestCase extends Orchestra
 {
