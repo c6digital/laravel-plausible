@@ -1,12 +1,12 @@
 <?php
 
-namespace VendorName\Skeleton\Commands;
+namespace C6Digital\Plausible\Commands;
 
 use Illuminate\Console\Command;
 
-class SkeletonCommand extends Command
+class PlausibleCommand extends Command
 {
-    public $signature = 'skeleton';
+    public $signature = 'laravel-plausible';
 
     public $description = 'My command';
 
