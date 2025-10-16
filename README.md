@@ -1,8 +1,8 @@
 # Send server-side events from Laravel to Plausible.
 
 [![Latest Version on Packagist](https://img.shields.io/packagist/v/c6digital/laravel-plausible.svg?style=flat-square)](https://packagist.org/packages/c6digital/laravel-plausible)
-[![GitHub Tests Action Status](https://img.shields.io/github/actions/workflow/status/c6digital/laravel-plausible/run-tests.yml?branch=main&label=tests&style=flat-square)](https://github.com/c6digital/laravel-plausible/actions?query=workflow%3Arun-tests+branch%3Amain)
-[![GitHub Code Style Action Status](https://img.shields.io/github/actions/workflow/status/c6digital/laravel-plausible/fix-php-code-style-issues.yml?branch=main&label=code%20style&style=flat-square)](https://github.com/c6digital/laravel-plausible/actions?query=workflow%3A"Fix+PHP+code+style+issues"+branch%3Amain)
+[![GitHub Tests Action Status](https://img.shields.io/github/actions/workflow/status/c6digital/laravel-plausible/run-tests.yml?branch=main&label=tests&style=flat-square)](https://github.com/c6digital/laravel-plausible/actions/workflows/run-tests.yml?query=branch%3Amain)
+[![GitHub Code Style Action Status](https://img.shields.io/github/actions/workflow/status/c6digital/laravel-plausible/fix-php-code-style-issues.yml?branch=main&label=code%20style&style=flat-square)](https://github.com/c6digital/laravel-plausible/actions/workflows/fix-php-code-style-issues.yml?query=branch%3Amain)
 [![Total Downloads](https://img.shields.io/packagist/dt/c6digital/laravel-plausible.svg?style=flat-square)](https://packagist.org/packages/c6digital/laravel-plausible)
 
 This package provides a small wrapper for the Plausible "Events" API that makes it easy to send custom server-side events to Plausible.
