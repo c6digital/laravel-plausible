@@ -8,8 +8,7 @@ class Plausible
 {
     public function __construct(
         protected string $domain,
-    ) {
-    }
+    ) {}
 
     public function event(string $name, array $props = []): bool
     {
